@@ -1,6 +1,11 @@
 f1spirit
 ====
 
+# Vita Port
+
+Current status : Not finished
+
+
 ![f1spirit build status](https://api.travis-ci.org/ptitSeb/f1spirit.png "f1spirit build status")
 
 This version of F1 Spirit as been modified. It now support a GLES renderer, 
